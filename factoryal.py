@@ -11,3 +11,14 @@ for i in range(1, a + 1):
     b *= i
 print(b)
 
+"""
+второй вариант факториала
+
+n = int(input())
+res = 1
+i = 2
+while i <= n:
+    res *= i
+    i += 1
+print(res)
+"""
