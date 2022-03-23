@@ -1,3 +1,4 @@
-s1 = 'a'
-s2 = s1.upper()
-print(s1, s2)
+s = 'BEEGEEK'
+chars = list(s)
+s = '**'.join(chars)
+print(s)
